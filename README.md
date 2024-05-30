@@ -33,3 +33,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for documentation on how to contribute co
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/google/osv-scanner.svg)](https://starchart.cc/google/osv-scanner)
+#
